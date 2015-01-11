@@ -1,0 +1,32 @@
+{
+  "name": "hac",
+  "version": "1.0.0",
+  "description": "Hierarchical agglomerative clustering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roackb2/hac.git"
+  },
+  "keywords": [
+    "hac",
+    "clustering",
+    "IR",
+    "Hierarchical agglomerative clustering",
+    "Hierarchical clustering",
+    "information retrieval"
+  ],
+  "author": "Jay Liang <roackb2@gmail.com> (https://www.facebook.com/profile.php?id=1391931108)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roackb2/hac/issues"
+  },
+  "homepage": "https://github.com/roackb2/hac",
+  "dependencies": {
+    "es6-shim": "^0.22.2",
+    "natural": "^0.2.0",
+    "node-uuid": "^1.4.2"
+  }
+}
