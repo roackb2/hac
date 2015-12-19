@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/roackb2/hac",
   "dependencies": {
-    "es6-shim": "^0.22.2",
     "lodash": "^3.10.1",
     "natural": "^0.2.0",
     "node-uuid": "^1.4.2",
