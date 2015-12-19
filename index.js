@@ -1,1 +1,1 @@
-module.exports = require("./lib/HAC.js");
+module.exports = require('./lib/HAC.js');
