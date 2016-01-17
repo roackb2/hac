@@ -81,7 +81,7 @@ Arguments:
     + `FeatureSelector.MI`: Expected Mutual Information feature selection
     + `FeatureSelectr.LLR`: Likelihood Ratio feature selection
 
-## Get erformance measurement
+## Get performance measurement
 
 You could get F measure or Random index for the clustering result.
 
