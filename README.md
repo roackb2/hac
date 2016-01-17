@@ -6,7 +6,7 @@ HAC stands for Hierarchical Agglomerative Clustering, a commeon technique for un
 # Installation
 
 ```bash
-npm install git+https://git@github.com/roackb2/hac.git
+npm install hac --save
 ```
 
 # Usage
@@ -146,3 +146,7 @@ doc id: 4
 doc content: documents are always not large enough
 ```
 
+# Release Notes
+
+* 1.0.2: subtle modification to README
+* 1.0.1: first publishment
