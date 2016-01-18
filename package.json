@@ -26,6 +26,7 @@
   "homepage": "https://github.com/roackb2/hac",
   "dependencies": {
     "bin-tree": "git+https://git@github.com/roackb2/bin-tree.git",
+    "es6-shim": "^0.34.1",
     "feature-selector": "git+https://git@github.com/roackb2/feature-selector.git",
     "heap": "git+https://git@github.com/roackb2/heap.git",
     "lodash": "^3.10.1",

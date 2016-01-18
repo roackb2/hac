@@ -148,6 +148,7 @@ doc content: documents are always not large enough
 
 # Release Notes
 
+* 1.0.4: require es6-shim to support older node engine
 * 1.0.3: change arrow functions to anonymous functions for backward compatibility
 * 1.0.2: subtle modification to README
 * 1.0.1: first publishment
