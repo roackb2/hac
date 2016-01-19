@@ -3,6 +3,13 @@
 HAC stands for Hierarchical Agglomerative Clustering, a commeon technique for unsupervised document clustering.
 
 
+> **NOTICE**:
+> HAC requires unpublished modules on github,
+> it will just work fine with `npm install`,
+> but will fail on *Tonic* (the *Try it out* on npm website),
+> since it requires all modules published on npm.
+> Future works will try to publish these required modules on npm.
+
 # Installation
 
 ```bash
@@ -148,6 +155,7 @@ doc content: documents are always not large enough
 
 # Release Notes
 
+* 1.0.5: make statements in README for incompatibility with `Tonic`
 * 1.0.4: require es6-shim to support older node engine
 * 1.0.3: change arrow functions to anonymous functions for backward compatibility
 * 1.0.2: subtle modification to README
