@@ -155,6 +155,7 @@ doc content: documents are always not large enough
 
 # Release Notes
 
+* 1.0.6: correct require path of the heap module
 * 1.0.5: make statements in README for incompatibility with `Tonic`
 * 1.0.4: require es6-shim to support older node engine
 * 1.0.3: change arrow functions to anonymous functions for backward compatibility
